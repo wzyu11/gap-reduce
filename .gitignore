@@ -1,0 +1,8 @@
+### Goland IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Go mod ###
+go.sum
